@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leonardocrociani
+- 👋 Hi, I’m @leonardocrociani. I study Computer Science at University of Pisa.
 - I’m interested in code, motorcycle, business.
 - I’m currently workin on a project named Noxes. It's about educational notes.
 - How to reach me : mail : l.crociani@outlook.com 
