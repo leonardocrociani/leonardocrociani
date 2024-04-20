@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leonardocrociani. I study CS at University of Pisa.
-- I’m interested in computer science and economics.
-- I’m currently working on a project named Noxes. It's about educational notes.
+- I’m interested in computer science and finance.
 - How to reach me : mail : l.crociani@outlook.com 
 
 <!---
