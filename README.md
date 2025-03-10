@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leonardocrociani. I'm attending a Master Degreen in CS @ University of Pisa.
+- 👋 Hi, I’m @leonardocrociani. I'm attending a Master Degree in _AI_ @ University of Pisa.
 - I’m interested in computer science, finance and business.
 - How to reach me -> email: l.crociani@outlook.com 
 
